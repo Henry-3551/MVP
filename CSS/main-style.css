@@ -298,7 +298,7 @@ button:hover{
       }
 
 section.hero{
-    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.4), rgba(0,0,0,0.5), rgba(0,0,0,0.7), rgba(0,0,0,0.75)),url('/hero.jpg');
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.4), rgba(0,0,0,0.5), rgba(0,0,0,0.7), rgba(0,0,0,0.75)),url('../hero.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -369,7 +369,7 @@ main{
     text-align: center;
 }
 .me{
-    background: url('/me2.jpg');
+    background: url('../me2.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -486,7 +486,7 @@ main{
     position: relative;
 }
 #skills{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('/leisure.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('../leisure.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
