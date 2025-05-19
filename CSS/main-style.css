@@ -173,7 +173,7 @@ button:hover{
 .header.active{
     background: rgba(14,14,14,0.80);
     backdrop-filter: blur(6px);
-    height: 12vh;
+    height: 8vh;
     position: fixed;
     z-index: 1000;
 }
