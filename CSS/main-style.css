@@ -308,7 +308,7 @@ section.hero{
     padding-bottom: 30px;
     margin-bottom: 40px;
     color: aliceblue;
-    min-height: 55vh;
+    min-height: 40vh;
     border-radius: 0 0 10px 10px;
     transition-duration: .42s;
 }
@@ -347,11 +347,11 @@ main{
 }
 .tab-content h3{
     opacity: .8;
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 .tab-content a{
     color: gray;
-    font-size: 0.6em;
+    font-size: 0.7em;
     margin-left: 0.9em;
     text-decoration: underline;
 }
@@ -396,7 +396,7 @@ main{
 
 .wid-div h3{
     background: none;
-    font-size: 0.85rem;
+    font-size: 0.9rem;
 }
 .web-stacks{
     padding: 15px;
@@ -440,7 +440,7 @@ main{
     margin-bottom: 30px;
 }
 .faqs h3{
-    font-size: 0.85em;
+    font-size: 0.9em;
     opacity: 0.75;
     margin-bottom: 20px;
 }
@@ -509,7 +509,7 @@ main{
 }
 #skills > ul > li{
     line-height: 1.8rem;
-    font-size: 0.6rem;
+    font-size: 0.7rem;
 }
 img{
     width: 100%;
@@ -541,7 +541,7 @@ footer{
 .my_socials i{
     color: #fff;
     font-size: 24px;
-    margin-right: 0.875rem;
+    margin-right: 0.9rem;
     
 }
 .my_socials i:hover{
