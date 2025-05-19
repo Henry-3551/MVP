@@ -347,11 +347,11 @@ main{
 }
 .tab-content h3{
     opacity: .8;
-    font-size: 0.9em;
+    font-size: 1.2em;
 }
 .tab-content a{
     color: gray;
-    font-size: 0.7em;
+    font-size: 0.9em;
     margin-left: 0.9em;
     text-decoration: underline;
 }
